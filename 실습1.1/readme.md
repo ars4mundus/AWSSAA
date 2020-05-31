@@ -1,1 +1,1 @@
- ![RewardFunctionChallenge](img/image01.png)
+ ![RewardFunctionChallenge](img/image1.png)
